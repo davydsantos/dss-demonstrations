@@ -92,7 +92,7 @@
 			</plugin>
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
-				<artifactId>tomcat6-maven-plugin</artifactId>
+				<artifactId>tomcat7-maven-plugin</artifactId>
 	            <configuration>
 	                <path>/</path>
 	            </configuration>
@@ -352,7 +352,7 @@
 					</plugin>
 					<plugin>
 						<groupId>org.apache.tomcat.maven</groupId>
-						<artifactId>tomcat6-maven-plugin</artifactId>
+						<artifactId>tomcat7-maven-plugin</artifactId>
 						<configuration>
 							<path>/</path>
 							<port>8765</port>
